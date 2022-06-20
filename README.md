@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on automation for ProFinder on LinkedIn.
+- 🔭 I’m currently working on automating ProFinder for LinkedIn.
 - 🌱 I’m currently learning at UC Berkeley.
 - 👯 I’m looking to collaborate on cyber security projects.
 - 🤔 I’m looking for help with improving programing architecture. 
